@@ -1,0 +1,10 @@
+2) (a)
+
+When the project is built, a file called "startup_stm32l4r5zitxp.s"
+
+The memory is written to 0x8000202
+
+The STM32CubeIDE uses the microUSB cable to connect to the board.
+
+ST-Link is the protocol to transfer compiled binary to the microcontroller.
+
