@@ -1,0 +1,19 @@
+1.
+- User LD1 (green)
+- User LD2 (blue)
+- User LD3 (red)
+
+2.
+- User LD1 (green): PA5
+- User LD2 (blue): PB7
+- User LD3 (red): PB14
+
+3.
+- User LD1 (green): PA5 -> Yes
+- User LD2 (blue): PB7 -> Yes
+- User LD3 (red): PB14 -> Yes
+
+Yes, all of the pins are configured as GPIO, which means they can either receive input or output.
+
+4.
+Output, since we want to power the LEDs.
